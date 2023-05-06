@@ -8,7 +8,7 @@ pipeline {
 	      }
 		stage ("stage-2") {
 			steps {
-				echo "Suyog is the Asm Guy"
+				echo "23Q1"
 			}
 		}
 			
